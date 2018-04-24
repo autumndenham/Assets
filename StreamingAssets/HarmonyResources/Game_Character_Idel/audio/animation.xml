@@ -1,0 +1,14 @@
+<animations>
+ <animation name="Game_Character_Idle_Top">
+  <attrlinks>
+   <attrlink attr="opacity" node="Drawing" value="1"/>
+  </attrlinks>
+  <timedvalues/>
+ </animation>
+ <animation name="GameCharacter_Top">
+  <attrlinks>
+   <attrlink attr="opacity" node="Drawing" value="1"/>
+  </attrlinks>
+  <timedvalues/>
+ </animation>
+</animations>

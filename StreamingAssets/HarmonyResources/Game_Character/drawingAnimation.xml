@@ -1,0 +1,30 @@
+<drawingAnimations>
+ <drawingAnimation spritesheet="sheet_Top" name="GameCharacter_Top">
+  <drawing node="Drawing" name="1-Drawing">
+   <drw frame="1" name="1-Drawing-1.png"/>
+   <drw frame="2" name="1-Drawing-4.png"/>
+   <drw frame="3" name="1-Drawing-6.png"/>
+   <drw frame="4" name="1-Drawing-7.png"/>
+   <drw frame="5" name="1-Drawing-9.png"/>
+   <drw frame="6" name="1-Drawing-10.png"/>
+   <drw frame="7" name="1-Drawing-3.png"/>
+   <drw frame="8" name="1-Drawing-12.png"/>
+   <drw frame="9" name="1-Drawing-13.png"/>
+   <drw frame="10" name="1-Drawing-11.png"/>
+   <drw frame="11" name="1-Drawing-14.png"/>
+   <drw frame="12" name="1-Drawing-15.png"/>
+  </drawing>
+ </drawingAnimation>
+ <drawingAnimation spritesheet="sheet_Top" name="Game_Character_Jump_Top">
+  <drawing node="Drawing" name="1-Drawing">
+   <drw frame="1" name="1-Drawing-1.png"/>
+   <drw frame="2" name="1-Drawing-2.png"/>
+   <drw frame="3" name="1-Drawing-3.png"/>
+   <drw frame="4" name="1-Drawing-4.png"/>
+   <drw frame="5" name="1-Drawing-5.png"/>
+   <drw frame="6" name="1-Drawing-6.png"/>
+   <drw frame="7" name="1-Drawing-7.png"/>
+   <drw frame="8" name="1-Drawing-8.png"/>
+  </drawing>
+ </drawingAnimation>
+</drawingAnimations>

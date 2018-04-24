@@ -1,0 +1,17 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="ipad" name="sheet_Top" filename="spriteSheets/sheet_Top-ipad.png">
+  <sprite scaleY="0.499922" angleDegrees="0.261027" rect="1620,668,309,682" offsetX="-12.5358" offsetY="-95.8681" name="1-Drawing-15.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="-0.153197" rect="1372,668,248,681" offsetX="-12.5266" offsetY="-98.745" name="1-Drawing-9.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="-2.23288" rect="1012,668,360,677" offsetX="-16.3567" offsetY="-102.667" name="1-Drawing-3.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="7.61394" rect="740,668,272,677" offsetX="16.5401" offsetY="-102.581" name="1-Drawing-14.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="-0.956834" rect="379,668,361,676" offsetX="-9.62495" offsetY="-102.681" name="1-Drawing-1.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="2.16926" rect="189,668,190,673" offsetX="1.2336" offsetY="-102.979" name="1-Drawing-11.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="2.18026" rect="0,668,189,673" offsetX="2.65958" offsetY="-104.643" name="1-Drawing-7.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="-6.63251" rect="1607,0,322,668" offsetX="-27.3292" offsetY="-92.4418" name="1-Drawing-10.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="-0.795724" rect="1352,0,255,663" offsetX="-7.55985" offsetY="-106.73" name="1-Drawing-13.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="-0.806929" rect="1040,0,312,652" offsetX="-8.95624" offsetY="-113.482" name="1-Drawing-12.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="11.9382" rect="761,0,279,649" offsetX="25.0344" offsetY="-109.353" name="1-Drawing-6.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="2.38073" rect="455,0,306,645" offsetX="8.73871" offsetY="-112.974" name="1-Drawing-4.png" scaleX="0.499922"/>
+ </spritesheet>
+</spritesheets>

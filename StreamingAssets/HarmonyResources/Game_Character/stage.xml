@@ -1,0 +1,8 @@
+<stages>
+ <stage name="GameCharacter_GameCharacter">
+  <play drawingAnimation="GameCharacter_Top" name="Top" skeleton="Top" animation="GameCharacter_Top"/>
+ </stage>
+ <stage name="Game_Character_Jump_Game_Character_Jump">
+  <play drawingAnimation="Game_Character_Jump_Top" name="Top" skeleton="Top" animation="Game_Character_Jump_Top"/>
+ </stage>
+</stages>

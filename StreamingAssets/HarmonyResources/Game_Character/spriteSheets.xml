@@ -1,0 +1,13 @@
+<!DOCTYPE spritesheets>
+<spritesheets>
+ <spritesheet resolution="ipad" name="sheet_Top" filename="spriteSheets/sheet_Top-ipad.png">
+  <sprite scaleY="0.499922" angleDegrees="3.41094" rect="1399,0,265,672" offsetX="22.3042" offsetY="14.8037" name="1-Drawing-6.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="-4.20392" rect="1255,0,144,666" offsetX="-43.0539" offsetY="-88.5045" name="1-Drawing-1.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="7.85331" rect="955,0,300,653" offsetX="54.8325" offsetY="-97.4767" name="1-Drawing-5.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="7.63333" rect="676,0,279,653" offsetX="45.2152" offsetY="-97.4083" name="1-Drawing-7.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="-10.4494" rect="451,0,225,636" offsetX="-26.4323" offsetY="-99.2935" name="1-Drawing-2.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="-3.21738" rect="252,0,199,633" offsetX="-19.2283" offsetY="-104.992" name="1-Drawing-4.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="1.56935" rect="0,0,252,577" offsetX="-50.3415" offsetY="-133.762" name="1-Drawing-3.png" scaleX="0.499922"/>
+  <sprite scaleY="0.499922" angleDegrees="-4.20392" rect="1255,0,144,666" offsetX="-43.0539" offsetY="-88.5045" name="1-Drawing-8.png" scaleX="0.499922"/>
+ </spritesheet>
+</spritesheets>
